@@ -1,23 +1,35 @@
-# Hi there, I'm Fariz Adam 👋
+<div align="center">
 
-> ⚠️ **Notice:** My previous GitHub account ([@adamfariz](https://github.com/adamfariz)) was compromised. This is my new official account for all current and active projects!
+# Hi, I'm Fariz Adam 👋
+
+### Full-Stack Software Engineer | Real-Time AI Systems | Secure API Architecture
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
+
+</div>
+
+> ⚠️ **Security notice:** My previous GitHub account ([@adamfariz](https://github.com/adamfariz)) was compromised. **This is my new official account** for all current and active projects — please update any links or forks accordingly.
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a **Full-Stack Software Engineer** completing my B.S. in Applied Computer Science & Software Engineering at Mohammed V University[cite: 1]. I build high-performance web applications, real-time AI solutions, and scalable REST APIs[cite: 1].
+I'm completing my **B.S. in Applied Computer Science & Software Engineering** at Mohammed V University (2026). I build high-performance web applications, real-time AI-powered tools, and scalable REST APIs — with a particular focus on security architecture and low-latency systems.
 
-* 🎓 **Degree:** B.S. in Applied Computer Science & Software Engineering (2026)[cite: 1]
-* 💼 **Experience:** Freelance Full-Stack Developer & Former Intern[cite: 1]
-* 🌐 **Open Source:** Contributor to **MDN Web Docs**[cite: 1]
-* ⚡ **Core Focus:** Real-time pipelines, security architecture (JWT/OAuth2/RBAC), and low-latency API design[cite: 1]
+- 🎓 **Degree:** B.S. in Applied Computer Science & Software Engineering, Mohammed V University (2026)
+- 💼 **Experience:** Freelance Full-Stack Developer & Former Software Engineering Intern
+- 🌐 **Open Source:** Contributor to [MDN Web Docs](https://developer.mozilla.org)
+- ⚡ **Core Focus:** Real-time data pipelines, security architecture (JWT / OAuth2 / RBAC), and low-latency API design
+- 📍 **Currently:** Building AI-integrated tools and looking for full-time Software Engineer roles
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### **Languages & Core**
+**Languages & Core**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,21 +37,24 @@ I'm a **Full-Stack Software Engineer** completing my B.S. in Applied Computer Sc
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### **Frontend & Mobile**
+**Frontend & Mobile**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend, AI & Security**
+**Backend, AI & Security**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_AI-f34f29?style=for-the-badge&logo=openai&logoColor=white)
+![Groq API](https://img.shields.io/badge/Groq_AI-F34F29?style=for-the-badge&logo=openai&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-#### **Databases, Cloud & DevOps**
+**Databases, Cloud & DevOps**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,26 +65,38 @@ I'm a **Full-Stack Software Engineer** completing my B.S. in Applied Computer Sc
 
 ---
 
-### 💻 Key Projects
+## 💻 Key Projects
 
-* 🛠️ **Chrome Live Audio Fact-Checker:** Chrome extension + Express.js backend using Groq Whisper AI & Llama 3.3 to transcribe browser audio and perform real-time fact checking[cite: 1].
-* 🚘 **Covoit Air:** Mobile airport ridesharing platform built with React Native, Node.js, and MongoDB featuring Stripe payments and multi-role JWT/RBAC security[cite: 1].
-* 🛡️ **Zodiac Guard:** Anti-spam/fraud analytics SDK and API featuring sliding-window rate limiting (<150ms latency) and a live React dashboard[cite: 1].
-* 📚 **Learnify:** E-learning platform engineered on the MERN stack with indexed query optimizations and state-tracked progress systems[cite: 1].
+| Project | Description | Stack |
+|---|---|---|
+| 🛠️ **[Chrome Live Audio Fact-Checker](https://github.com/adamfariz)** | Chrome extension + Express.js backend that transcribes live browser audio and performs real-time fact-checking using Groq Whisper AI & Llama 3.3 | JavaScript, Express.js, Groq API |
+| 🚘 **[Covoit Air](https://github.com/adamfariz)** | Mobile airport ridesharing platform with Stripe payments and multi-role JWT/RBAC security | React Native, Node.js, MongoDB |
+| 🛡️ **[Zodiac Guard](https://github.com/adamfariz)** | Anti-spam/fraud analytics SDK and API with sliding-window rate limiting (<150ms latency) and a live monitoring dashboard | React, Node.js, Redis |
+| 📚 **[Learnify](https://github.com/adamfariz)** | E-learning platform with indexed query optimizations and state-tracked progress systems | MongoDB, Express.js, React, Node.js |
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+> Replace the placeholder links above with the actual repo URLs on your new account once they're uploaded.
 
 ---
 
-### 📫 Connect With Me
+## 📊 GitHub Stats
 
-* 🌐 Portfolio: [farizadam.netlify.app](https://farizadam.netlify.app)[cite: 1]
-* 💼 LinkedIn: [linkedin.com/in/adamfariz-3bba3b2a9](https://linkedin.com/in/adamfariz-3bba3b2a9)[cite: 1]
-* 📧 Email: [farizadam20051027@gmail.com](mailto:farizadam20051027@gmail.com)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://farizadam.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adamfariz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
+[![Email](https://img.shields.io/badge/Email-farizadam20051027%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
+
+</div>
