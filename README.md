@@ -10,7 +10,7 @@
 
 </div>
 
-> ⚠️ **Security notice:** My previous GitHub account ([@adamfariz](https://github.com/adamfariz)) was compromised. **This is my new official account** for all current and active projects — please update any links or forks accordingly.
+> ⚠️ **Security notice:** My previous GitHub account ([@farizadam](https://github.com/farizadam)) was compromised. **This is my new official account** for all current and active projects — please update any links or forks accordingly.
 
 ---
 
@@ -82,8 +82,6 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
