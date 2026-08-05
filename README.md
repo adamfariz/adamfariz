@@ -30,6 +30,8 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 **Languages & Core**
 
+
+![TypeScript](https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
