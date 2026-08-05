@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer | Real-Time AI Systems | Secure API Architecture
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)]([https://farizadam.netlify.app](https://farizadam.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
 
@@ -93,7 +93,7 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://farizadam.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamfariz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
 [![Email](https://img.shields.io/badge/Email-farizadam20051027%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
 
