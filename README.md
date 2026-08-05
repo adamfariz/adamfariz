@@ -82,17 +82,15 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&area=true" alt="GitHub Activity Graph" />
-      </td>
-    </tr>
-  </table>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&area=true" alt="GitHub Activity Graph" />
 
+  <br /><br />
+
+  <!-- GitHub Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/adamfariz/adamfariz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+</div>
   <br />
 
   <!-- GitHub Contribution Snake Animation -->
