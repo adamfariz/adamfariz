@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Engineer | Real-Time AI Systems | Secure API Architecture
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
 
@@ -29,7 +29,6 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 ## 🛠️ Tech Stack
 
 **Languages & Core**
-
 
 ![TypeScript](https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -80,12 +79,16 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
 
-<img src="[https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true)" alt="GitHub Streak" width="60%" />
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/adamfariz/adamfariz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
 
@@ -95,7 +98,7 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.netlify.app-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.vercel.app-1a1a2e?style=flat-square&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adamfariz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
 [![Email](https://img.shields.io/badge/Email-farizadam20051027%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:farizadam20051027@gmail.com)
 
