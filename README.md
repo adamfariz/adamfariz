@@ -78,25 +78,27 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 > Replace the placeholder links above with the actual repo URLs on your new account once they're uploaded.
 
 ---
-
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&area=true" alt="GitHub Activity Graph" />
+      </td>
+    </tr>
+  </table>
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
-
-  <br /><br />
+  <br />
 
   <!-- GitHub Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/adamfariz/adamfariz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
-
----
 
 ## 📫 Let's Connect
 
