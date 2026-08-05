@@ -84,7 +84,7 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
