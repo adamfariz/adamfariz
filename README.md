@@ -10,13 +10,13 @@
 
 </div>
 
-> ⚠️ **Security notice:** My previous GitHub account ([@farizadam](https://github.com/farizadam)) was compromised. **This is my new official account** for all current and active projects — please update any links or forks accordingly.
+> ⚠️ **Security notice:** My previous GitHub account ([@farizadam](https://github.com/farizadam)) was compromised. **This is my new official account** for all current and active projects — p[...]
 
 ---
 
 ## 🚀 About Me
 
-I'm completing my **B.S. in Applied Computer Science & Software Engineering** at Mohammed V University (2026). I build high-performance web applications, real-time AI-powered tools, and scalable REST APIs — with a particular focus on security architecture and low-latency systems.
+I'm completing my **B.S. in Applied Computer Science & Software Engineering** at Mohammed V University (2026). I build high-performance web applications, real-time AI-powered tools, and scalable R[...]
 
 - 🎓 **Degree:** B.S. in Applied Computer Science & Software Engineering, Mohammed V University (2026)
 - 💼 **Experience:** Freelance Full-Stack Developer & Former Software Engineering Intern
@@ -70,9 +70,9 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 | Project | Description | Stack |
 |---|---|---|
-| 🛠️ **[Chrome Live Audio Fact-Checker](https://github.com/adamfariz)** | Chrome extension + Express.js backend that transcribes live browser audio and performs real-time fact-checking using Groq Whisper AI & Llama 3.3 | JavaScript, Express.js, Groq API |
+| 🛠️ **[Chrome Live Audio Fact-Checker](https://github.com/adamfariz)** | Chrome extension + Express.js backend that transcribes live browser audio and performs real-time fact-checking using [...]
 | 🚘 **[Covoit Air](https://github.com/adamfariz)** | Mobile airport ridesharing platform with Stripe payments and multi-role JWT/RBAC security | React Native, Node.js, MongoDB |
-| 🛡️ **[Zodiac Guard](https://github.com/adamfariz)** | Anti-spam/fraud analytics SDK and API with sliding-window rate limiting (<150ms latency) and a live monitoring dashboard | React, Node.js, Redis |
+| 🛡️ **[Zodiac Guard](https://github.com/adamfariz)** | Anti-spam/fraud analytics SDK and API with sliding-window rate limiting (<150ms latency) and a live monitoring dashboard | React, Node.[...]
 | 📚 **[Learnify](https://github.com/adamfariz)** | E-learning platform with indexed query optimizations and state-tracked progress systems | MongoDB, Express.js, React, Node.js |
 
 > Replace the placeholder links above with the actual repo URLs on your new account once they're uploaded.
@@ -83,11 +83,15 @@ I'm completing my **B.S. in Applied Computer Science & Software Engineering** at
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adamfariz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+
+  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="48%" />
 
   <br /><br />
 
+  <!-- GitHub Contribution Snake Animation -->
   <img src="https://raw.githubusercontent.com/adamfariz/adamfariz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 </div>
