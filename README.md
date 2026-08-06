@@ -81,5 +81,5 @@ I am a **Full-Stack developer** and I hold a B.S. in Applied Computer Science & 
 <div align="center">
   <a href="https://farizadam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-farizadam.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/adamfariz-3bba3b2a9"><img src="https://img.shields.io/badge/LinkedIn-adamfariz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:adam.fariz@um5r.ac.ma><img src="https://img.shields.io/badge/Email-adam.fariz%40um5r.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:adam.fariz@um5r.ac.ma"><img src="https://img.shields.io/badge/Email-adam.fariz%40um5r.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
