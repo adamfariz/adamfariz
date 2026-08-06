@@ -2,7 +2,7 @@
 
 # Hi there, I'm Fariz Adam 👋
 
-### Full-Stack Software Engineer | Real-Time AI Systems | Secure API Architecture
+### Full-Stack developer | Real-Time AI Systems | Secure API Architecture
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-farizadam.vercel.app-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://farizadam.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adamfariz-3bba3b2a9)
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I am a **Full-Stack Software Engineer** currently completing my B.S. in Applied Computer Science & Software Engineering at Mohammed V University (Class of 2026). I specialize in building high-performance web applications, real-time AI-powered tools, and scalable REST APIs, with a strict emphasis on **low latency** and **robust security architecture**.
+I am a **Full-Stack developer** and I hold a B.S. in Applied Computer Science & Software Engineering at Mohammed V University (Class of 2026). I specialize in building high-performance web applications, real-time AI-powered tools, and scalable REST APIs, with a strict emphasis on **low latency** and **robust security architecture**.
 
 *   🎓 **Education:** B.S. in Applied Computer Science & Software Engineering, Mohammed V University (2026)
 *   💼 **Experience:** Freelance Full-Stack Developer & Former Software Engineering Intern
