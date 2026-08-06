@@ -53,19 +53,18 @@ I am a **Full-Stack developer** and I hold a B.S. in Applied Computer Science & 
 | 🛡️ **[Zodiac Guard](https://github.com/adamfariz)** | Anti-spam/fraud analytics SDK and API with sliding-window rate limiting (<150ms latency) & live monitoring dashboard. | `React` `Node.js` `Redis` |
 | 📚 **[Learnify](https://github.com/adamfariz)** | E-learning platform built with indexed query optimizations and comprehensive state-tracked progress systems. | `MongoDB` `Express` `React` `Node.js` |
 
----
+---me=
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=adamfariz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=adamfariz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </div>
 
 <br />
 
 <div align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&area=true" width="100%" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=adamfariz&theme=tokyo-night&hide_border=true&bg_color=1a1b26&area=true&v=1" width="100%" />
 </div>
 
 <br />
