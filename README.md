@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi there, I'm Fariz Adam 👋
+## Hi there, I'm Fariz Adam 👋
 
 ### Full-Stack developer | Real-Time AI Systems | Secure API Architecture
 
