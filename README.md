@@ -49,8 +49,8 @@ I am a **Full-Stack Developer** holding a B.S. in Applied Computer Science & Sof
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📄 **[Resume AI](https://github.com/adamfariz/resume-ai)** | AI-powered resume builder & mock interviewer featuring low-latency LLM streaming and server-side PDF compilation. | `Next.js` `Express` `Groq API` `MongoDB` |
+| 🚘 **[Airport Carpooling App](https://github.com/adamfariz/airport)** | Monorepo mobile ridesharing platform featuring Stripe Connect driver payouts, idempotent webhooks, and background payout reconciliation. | `React Native` `Express` `MongoDB` `Stripe` |
 | 🏢 **Enterprise ERP Platform** *(Private)* | ERP system with multi-stage procurement/sales state machines, 3-way invoice reconciliation, line-level VAT engine, and Clerk RBAC. | `Next.js` `Clerk` `PostgreSQL` `Sequelize` |
-| 🚗 **Airport Carpooling App** *(Private)* | Monorepo mobile ridesharing platform featuring Stripe Connect driver payouts, idempotent webhooks, and background payout reconciliation. | `React Native` `Express` `MongoDB` `Stripe` |
 | 🎓 **[Learnify](https://github.com/adamfariz/learnify)** | Containerized Learning Management System (LMS) with student/teacher portals, dynamic quiz engines, and Docker orchestration. | `React` `Node.js` `Express` `Docker` `MongoDB` |
 | 🔍 **[Fact Check](https://github.com/adamfariz/fact_check)** | Real-time claim verification browser extension (Manifest V3) paired with an asynchronous Express REST API verification engine. | `Chrome Extension` `JavaScript` `Node.js` `Express` |
 | 🛒 **[EcomWebsite](https://github.com/adamfariz/ecomwebsite)** | Custom MVC e-commerce platform built in native PHP without framework overhead, featuring PDO models and back-office admin controls. | `PHP (MVC)` `MySQL` `PDO` `Apache` |
